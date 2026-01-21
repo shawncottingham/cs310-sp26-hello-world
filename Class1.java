@@ -14,7 +14,11 @@ public class Class1 {
     }
 
     private void f3() {
-        //v3.0
+        //v3.0 (revised for hotfix)
+    }
+
+    private void f4() {
+        //v4.0 (under devlopment)
     }
     
 }
